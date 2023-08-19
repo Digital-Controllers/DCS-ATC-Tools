@@ -1,6 +1,6 @@
 # DCS-ATC-Tools
 
-Version: 1.0.5
+Version: 1.0.8
 
 ## Strips
 
